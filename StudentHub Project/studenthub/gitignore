@@ -1,0 +1,10 @@
+# data written while testing
+storage/*.csv
+uploads/posters/*
+!uploads/posters/.gitkeep
+
+# editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
