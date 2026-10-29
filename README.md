@@ -119,7 +119,6 @@ Test cases for navigation, responsiveness, authentication, CRUD, uploads, AJAX a
 Author
 ---
 Mann Mahant
-Subject: ITUE203 Web Development Frameworks
 
 ---
 
