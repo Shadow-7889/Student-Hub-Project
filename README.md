@@ -1,4 +1,4 @@
-# StudentHub Portal
+ StudentHub Portal
 
 A full-stack student portal built step by step across 15 practicals for ITUE203 - Web Development Frameworks
 
@@ -6,7 +6,7 @@ Students can register, log in, browse events and register for them. Admins manag
 
 
 
-## Features
+ Features
 
 Public
 - Responsive pages built with semantic HTML5, CSS Grid and Flexbox (mobile, tablet, desktop)
@@ -29,7 +29,7 @@ Admin
 
 ---
 
-## Tech Stack
+ Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -41,24 +41,20 @@ Admin
 
 ---
 
-## Getting Started
+ Getting Started
 
-### Requirements
+Requirements
 - WAMP or XAMPP (Apache + PHP 8 + MySQL)
 - A modern browser
 
-### Installation
-1. Clone or download this repository.
-   bash
-   git clone <your-repository-url>
-   
-2. Copy the project folder into your server folder:
+ Installation
+1. Copy the project folder into your server folder:
    - WAMP: C:\wamp64\www\ (or D:\wamp64\www\)
    - XAMPP: C:\xampp\htdocs\
-3. Start Apache and MySQL.
-4. Open phpMyAdmin (http://localhost/phpmyadmin), choose Import, select sql/studenthub.sql and click Import.
+2. Start Apache and MySQL.
+3. Open phpMyAdmin (http://localhost/phpmyadmin), choose Import, select sql/studenthub.sql and click Import.
    > This creates a database named studenthub with sample data. If a database with that name already exists, it is replaced.
-5. Open the site in your browser:
+4. Open the site in your browser:
    
    http://localhost/<folder-name>/
    The site detects its own URL, so the folder name can be anything.
