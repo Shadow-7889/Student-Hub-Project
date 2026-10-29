@@ -110,16 +110,16 @@ StudentHub/
 - Admin pages and the API restricted by role
 
 ---
- Testing
+ ##Testing
 Test cases for navigation, responsiveness, authentication, CRUD, uploads, AJAX and the dashboard are listed in [docs/test-report.md](docs/test-report.md).
 
 ---
 
-Author
+##Author
 Mann Mahanr
 Subject: ITUE203 Web Development Frameworks
 
 ---
 
-License
+##License
 Created for educational purposes as part of university coursework.
